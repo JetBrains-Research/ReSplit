@@ -1,3 +1,5 @@
+Repository archived by abarilo as no longer mantained
+
 # ReSplit
 
 An algorithm that re-splits Jupyter notebooks by merging and splitting their cells.
